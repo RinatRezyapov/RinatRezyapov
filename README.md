@@ -1,6 +1,6 @@
 ﻿Hello there, I'm Rinat! 👋
 
-I'm a front-end developer. Eternal explorer, always lured by the untried.
+I'm a front-end developer. Eternal explorer and apprentice of life.
 
 Here is what I'm up to:
 
